@@ -6,7 +6,7 @@ Designed for performance, developer happiness, and clean UI.
 ---
 
 ## 🌐 Project Preview
-[Preview](src/Assets/placeholder.png)
+![Preview](src/Assets/placeholder.png)
 
 ---
 
